@@ -1,3 +1,7 @@
+//this example is a recursive approach to calculating the cumulative sum of values in an object of arrays
+//pls make sure you have gone through the factorial and power examples before checking out this
+//if your JavaScript is below an intermediate level, kindly go through the freeCodeCamp course on JavaScript
+
 
 //complex recurssion
 
