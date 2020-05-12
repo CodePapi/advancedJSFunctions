@@ -1,19 +1,3 @@
-let pow= function(x, n){
-  let a=  n==1?x:(x*pow(x,n-1));
-  return  a
-}
-
-console.log(pow(3, 3))
-
-
-
-//factorial
-
-let factorial = function factor(value){
-   let a= value<=0? 1: (value*factorial(value-1));
-   return a  
-}
-console.log(factorial(3))
 
 //complex recurssion
 
