@@ -3,6 +3,8 @@
 
 Recursion is a technique for iterating over an operation by having a function call itself repeatedly until it arrives at a result.
 
+A recursive function always has a condition that stops the function from calling itself.
+
 example uses of recurssion
 
 ## 1: power 
